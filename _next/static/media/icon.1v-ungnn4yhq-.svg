@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Goldie's mark (components/site/GoldieMark.tsx) for the browser tab. Colours repeat the light mark tokens in
+       styles/tokens.css (shell, ear, muzzle, glass, eye, edge): an icon cannot read the page's CSS, so this is the one
+       file outside tokens.css allowed colour literals. -->
+  <g stroke="#2A1F14" stroke-opacity="0.45" stroke-width="1" stroke-linejoin="round">
+    <path fill="#C9963A" d="M10 6C6.5 5.6 3.4 8.4 3 13.5c-.3 4.1.6 7.5 2.6 8.1 1.8.5 2.8-2 3.3-4.8l2-8.4c.3-1.4 0-2.3-.9-2.4Z"/>
+    <path fill="#C9963A" d="M22 6c3.5-.4 6.6 2.4 7 7.5.3 4.1-.6 7.5-2.6 8.1-1.8.5-2.8-2-3.3-4.8l-2-8.4c-.3-1.4 0-2.3.9-2.4Z"/>
+    <rect fill="#E8B44E" x="7.5" y="4.5" width="17" height="23" rx="8.5"/>
+  </g>
+  <rect fill="#2A1F14" x="9.5" y="9.75" width="13" height="8" rx="4"/>
+  <circle fill="#F5E2B8" cx="13.4" cy="13.75" r="1.6"/>
+  <circle fill="#F5E2B8" cx="18.6" cy="13.75" r="1.6"/>
+  <ellipse fill="#F5E2B8" cx="16" cy="22.4" rx="4.2" ry="3.1"/>
+  <ellipse fill="#2A1F14" cx="16" cy="21.3" rx="1.8" ry="1.15"/>
+</svg>

@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://likhitab66.github.io/sitemap.xml
